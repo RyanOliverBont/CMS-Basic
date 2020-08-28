@@ -13,7 +13,8 @@ Leerdoelen
 • Je kunt een virtuele server installeren en gebruiksklaar voor ontwikkeling
 maken
 
-Uitleg  
+
+## Uitleg  
 
 **Een virtuele server**  
 *Met een virtuele server kun je onder andere, webapplicaties laten functioneren op jouw PC zonder dat je een online server nodig hebt.*  
