@@ -1,35 +1,24 @@
-**CMS-Basic**
+# CMS-Basic WordPress Basics 1
 
-Basis CMS OP1
+Basisbeginselen van het WordPress CMS systeem 
 
 *Introductie*
 
-Het vak CMS-Basic volg je in de eerste en tweede periode van de opleiding
-Software Development.
+WordPress is zoals je eerder kon lezen, gebaseerd op code bestaande uit PHP, HTML, CSS en Jquery. Hiervan merk je in de praktijk weinig tot niets. Totdat je in de code duikt - dit kan binnen WordPress zelf via een ingebouwde Editor, maar ook 'buitenom' door rechtstreeks naar de code te gaan in de bestandsmappen op de server.
 
-CMS staat voor Content Management Systeem. Dit is een systeem waarmee content op
-een website mee kan worden beheerd. De basis is een database. Er zijn vele
-soorten CMS-systemen die in de basis erg op elkaar lijken maar elk hun eigen
-soort inrichting hebben. De database echter, blijft altijd het centrale
-uitgangspunt. Meer dan 60% van alle websites zijn gebouwd met een CMS als basis.
+Het aanpassen van de code (binnen- of buitenom maakt niet zoveel uit) is niet zonder risico's. Een WordPress website stopt makkelijk met functioneren als er iets wordt gewijzigd in de code - net als een website die gebaseerd is op code.
 
-Je leert basisbegrippen en -vaardigheden op het gebied van het WordPress Content
-Management Systeem. Het WordPress CMS wordt wereldwijd voor zeer veel websites
-gebruikt en zul je in de nabije toekomst ook vinden bij bijna elk stagebedrijf.
+De belangrijkste standaard-onderdelen van het systeem zijn de volgende functionaliteiten:
 
-WordPress CMS bestaat uit een aantal basis-componenten:
+  - Pagina's
+  - Berichten (Posts)
+  - Plug-ins (add ons voor functionaliteiten)
+  - Widgets (add-ons voor functionaliteiten)
+  - Themes (Sjablonen voor de vormgeving)
 
--   De database (vaak MySQL)
 
--   PHP
+Je kunt het systeem op allerlei manieren aanpassen met plug-ins en widgets. Widgets zijn meestal via een plug-in aan het systeem toe te voegen maar gedragen zich iets anders dan een 'gewone' plug-in.
 
--   HTML
-
--   CSS
-
--   Jquery
-
-Je kunt het systeem op allerlei manieren aanpassen met eigen code.
 
 Neem de tijd om alle informatie te lezen en de opdrachten uit te werken. Je kunt
 hier veel aan hebben tijdens de gehele opleiding.
