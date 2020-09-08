@@ -1,20 +1,44 @@
-# Les-1-CMS-Basic-Intro
+**CMS-Basic**
 
-## Installatie virtuele server
+Basis CMS OP1
 
-Leerdoelen  
+*Introductie*
 
-• Je kunt uitleggen wat een virtuele server is
+Het vak CMS-Basic volg je in de eerste en tweede periode van de opleiding
+Software Development.
 
-• Je kunt uitleggen hoe en waarom jij een virtuele server gaat gebruiken / gebruikt
+CMS staat voor Content Management Systeem. Dit is een systeem waarmee content op
+een website mee kan worden beheerd. De basis is een database. Er zijn vele
+soorten CMS-systemen die in de basis erg op elkaar lijken maar elk hun eigen
+soort inrichting hebben. De database echter, blijft altijd het centrale
+uitgangspunt. Meer dan 60% van alle websites zijn gebouwd met een CMS als basis.
 
-• Je kunt uitleggen wat de verschillen zijn tussen een virtuele server en een online server
+Je leert basisbegrippen en -vaardigheden op het gebied van het WordPress Content
+Management Systeem. Het WordPress CMS wordt wereldwijd voor zeer veel websites
+gebruikt en zul je in de nabije toekomst ook vinden bij bijna elk stagebedrijf.
 
-• Je kunt een virtuele server installeren en gebruiksklaar voor ontwikkeling
-maken
+WordPress CMS bestaat uit een aantal basis-componenten:
 
+-   De database (vaak MySQL)
 
-## Uitleg  
+-   PHP
 
-**Een virtuele server**  
-*Met een virtuele server kun je onder andere, webapplicaties laten functioneren op jouw PC zonder dat je een online server nodig hebt.*  
+-   HTML
+
+-   CSS
+
+-   Jquery
+
+Je kunt het systeem op allerlei manieren aanpassen met eigen code.
+
+[In de bijlage](L1-CMS-WP-intro-2020.pdf) vind je een overzicht van de
+belangrijkste eigenschappen van WordPress CMS. Op de laatste sheet een aantal
+vragen om te beantwoorden en in te leveren als kort verslag (als PDF in te
+leveren op Teams).
+
+Neem de tijd om alle informatie te lezen en de opdrachten uit te werken. Je kunt
+hier veel aan hebben tijdens de gehele opleiding.
+
+Heb je een suggestie voor een onderwerp, laat het weten aan de docent. Je mag
+ook als je veel van een bepaald onderwerp af weet, een presentatie geven of een
+les verzorgen over dat onderwerp!

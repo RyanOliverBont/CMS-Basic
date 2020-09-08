@@ -1,16 +1,21 @@
-# CMS-Basic-Install
+**CMS-Basic**
 
-## Installeren van WordPress CMS software
+Les 2 Basis CMS OP1
 
-*Introductie*
+*Installatie*
 
-WordPress CMS software is Open Sources software die je kunt downloaden van https://wordpress.org
+In de bijlage vind je uitleg voor het installeren van WordPress CMS op een
+virtuele server met behulp van het gratis programma XAMPP. Je mag ook WAMPP of
+MAMPP gebruiken voor het installeren van een virtuele server.
 
-(Wellicht heb je op het web ook de website https://wordpress.com gevonden. Dit is een commerciele website van het WordPress consortium. Hier kun je een hostname en wordpress-omgeving tegen een vergoeding huren. Daardoor hoef je niet een eigen hostingaccount en domeinnaam bij een provider te huren.) Het nadeel is wel dat jouw domeinnaam aangevuld wordt met "wordpress.com".
+Let altijd goed op dat je de *gratis versie* van de software kiest om te
+downloaden en installeren.
 
-In de taak lees je hoe je de installatie moet doen.
-Uitgangspunt is dat je reeds een werkende virtuele server hebt - VirtualBox. Dit werkt op Windows 10 net zoals op MacOS,.
+Nadat je de WordPress-installatie hebt afgerond maak je de opdracht op de
+laatste pagina van de PDF, beantwoordt de vragen en lever je korte verslag als
+PDF in op Teams.
 
+[Bijlage installatie](L2-CMS-WP-install-2020.pdf)
 
 Neem de tijd om alle informatie te lezen en de opdrachten uit te werken. Je kunt
 hier veel aan hebben tijdens de gehele opleiding.
