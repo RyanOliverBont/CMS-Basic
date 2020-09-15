@@ -10,4 +10,4 @@ Je hebt de Intro Videoles 1A-Dashbaord en 1B-VerticaalMenu1 in Basics1 gevolgd.
 
 Deze derde videoles gaat over Plug-ins. Kijk de les:
 
-https://web.microsoftstream.com/video/cdbba565-bf14-40cb-bf8f-bb3cb1e29717
+https://web.microsoftstream.com/video/f808b5b2-351d-45fb-b270-14b7c9fa1d6c
