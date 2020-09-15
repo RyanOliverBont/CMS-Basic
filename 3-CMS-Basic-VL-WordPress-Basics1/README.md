@@ -4,18 +4,17 @@ Basis CMS OP1
 
 *Introductie*
 
-Je hebt in EagleDev twee lesjes gevolgd over CMS in het algemeen en WordPress
-CMS in het bijzonder.
-
-Je hebt hierdoor een beeld van wat een CMS is en wat WordPress voor jou kan
+Je hebt in EagleDev de introductie gelezen over WordPress CMS. Je hebt hierdoor een beeld van wat een CMS is en wat WordPress voor jou kan
 betekenen als toekomstige ontwikkelaar.
+
+**Videoles 1**
 
 Deze eerste videoles gaat er van uit dat jij een werkende lokale
 WordPress-installatie hebt. Zonder die installatie kun je deze en de volgende
 lessen niet volgen.
 
 Heb je nog geen lokale WordPress-installatie? Installeer deze dan eerst met de
-instructies in les 2 op EagleDev van CMS-Basic.
+instructies in EagleDev (Introductie en Installatie).
 
 Heb je wel al een lokale WordPress-installatie? Kijk dan deze eerste videoles
 over de basis van WordPress, een introductie in het systeem:
