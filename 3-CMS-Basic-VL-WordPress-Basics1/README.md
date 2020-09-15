@@ -9,6 +9,8 @@ betekenen als toekomstige ontwikkelaar.
 
 **Videoles 1**
 
+De eerste Intro videoles, 1A-Dashboard, legt uit hoe het Dashboard van het CMS werkt - de plaats waar de beheerder (Administrator) van de website z'n werk doet.
+
 Deze eerste videoles gaat er van uit dat jij een werkende lokale
 WordPress-installatie hebt. Zonder die installatie kun je deze en de volgende
 lessen niet volgen.

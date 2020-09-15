@@ -10,4 +10,4 @@ Je hebt de Intro Videoles 1A-Dashbaord in Basics1 gevolgd.
 
 Deze tweede videoles gaat over het Dashboard met het verticale menu. Kijk de les:
 
-https://web.microsoftstream.com/video/45b35d60-8be8-44f9-a4e3-e13c5a5f7d44
+https://web.microsoftstream.com/video/cdbba565-bf14-40cb-bf8f-bb3cb1e29717
