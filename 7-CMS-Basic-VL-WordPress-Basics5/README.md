@@ -4,11 +4,11 @@ Basis CMS OP1
 
 *Introductie*
 
-Je hebt de Intro Videoles t/m 1D in Basics1 gevolgd en de plug-in Klassieke editor geïnstalleerd in jouw lokale WordPress-installatie.
+Je hebt de Intro Videoles t/m 1E in Basics1 gevolgd en de plug-in Klassieke editor geïnstalleerd in jouw lokale WordPress-installatie.
 
 **Intro Videoles 5**
 
-Dit is les Intro-1E.
+Dit is les Intro-1F.
 In deze les leer je Pagina's maken en aanpassen. Hierbij maak je o.a. gebruik van de Klassieke editor.
 
 Bekijk deze videoles om te leren hoe je een Pagina maakt:
