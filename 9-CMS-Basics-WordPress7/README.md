@@ -12,7 +12,4 @@ Dit is les Intro-1H en gaat over het maken van Berichten.
 
 Bekijk deze videoles hier:
 
-
-
-
-
+https://web.microsoftstream.com/video/bbd1b230-6e85-4672-975f-4420d4217094
