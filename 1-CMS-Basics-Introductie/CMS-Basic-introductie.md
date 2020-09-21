@@ -9,9 +9,9 @@ Software Development.
 
 CMS staat voor Content Management Systeem. Dit is een systeem waarmee content op
 een website mee kan worden beheerd. De basis is een database. Er zijn vele
-soorten CMS-systemen die in de basis erg op elkaar lijken maar elk hun eigen
-soort inrichting hebben. De database echter, blijft altijd het centrale
-uitgangspunt. Meer dan 60% van alle websites zijn gebouwd met een CMS als basis.
+soorten CMS-systemen die erg op elkaar lijken maar elk hun eigen soort
+inrichting hebben. De database echter, blijft altijd het centrale uitgangspunt.
+Meer dan 60% van alle websites zijn gebouwd met een CMS als basis.
 
 Je leert basisbegrippen en -vaardigheden op het gebied van het WordPress Content
 Management Systeem. Het WordPress CMS wordt wereldwijd voor zeer veel websites
@@ -31,7 +31,7 @@ WordPress CMS bestaat uit een aantal basis-componenten:
 
 Je kunt het systeem op allerlei manieren aanpassen met eigen code.
 
-[In de bijlage](L1-CMS-WP-intro-2020.pdf) vind je een overzicht van de
+[In de bijlage](taak01/L1-CMS-WP-intro-2020.pdf) vind je een overzicht van de
 belangrijkste eigenschappen van WordPress CMS. Op de laatste sheet een aantal
 vragen om te beantwoorden en in te leveren als kort verslag (als PDF in te
 leveren op Teams).
