@@ -15,8 +15,7 @@ Voordat je de eindopdracht kunt maken even een check:
 
    - de website bevat:
 
-     - een Home-pagina met
-     - een tekst over jou, jouw interesses/hobbies/sporten etc. en daarbij enkele foto's van jou en/of je interesses/hobbies/sporten etc.
+     - een Home-pagina met een tekst over jou, jouw interesses/hobbies/sporten etc. en daarbij enkele foto's van jou en/of je interesses/hobbies/sporten etc.
      - een Contactpagina waarop jouw contactgegevens staan zoals e-mailadres, telefoonnummer etc.
      - een Blog- of Berichtenpagina met daarop 3 of méér berichten die gaan over nieuwtjes die iets te maken hebben met jouw interessens/hobbies/sporten etc.
 
