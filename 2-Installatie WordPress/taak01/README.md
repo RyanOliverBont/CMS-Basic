@@ -16,6 +16,6 @@ downloaden en installeren. Pas ook op met 'doorklikken' waarbij je het risico lo
 Nadat je de WordPress-installatie hebt afgerond maak je de opdracht op de
 laatste pagina van de PDF, beantwoordt de vragen en lever je korte verslag als PDF in op Teams.
 
-[Bijlage installatie](L2-CMS-WP-install-2020.pdf)
+[Bijlage installatie](https://github.com/Amstelland-Software-Development/CMS-Basic/blob/master/2-Installatie%20WordPress/taak01/L2-CMS-WP-install-2020.pdf)
 
 Neem de tijd om alle informatie te lezen en de opdrachten uit te werken. Je kunt hier veel aan hebben tijdens de gehele opleiding.
