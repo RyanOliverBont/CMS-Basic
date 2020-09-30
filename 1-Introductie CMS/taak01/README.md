@@ -25,7 +25,7 @@ Je kunt het systeem op allerlei manieren aanpassen met eigen code.
 
 ## Opdracht
 
-[In de bijlage](L1-CMS-WP-intro-2020.pdf) vind je een overzicht van de
+[In de bijlage](https://github.com/Amstelland-Software-Development/CMS-Basic/blob/master/1-Introductie%20CMS/taak01/L1-CMS-WP-intro-2020.pdf) vind je een overzicht van de
 belangrijkste eigenschappen van WordPress CMS. Op de laatste sheet een aantal vragen om te beantwoorden en in te leveren als kort verslag (als PDF in te leveren op Teams).
 
 Neem de tijd om alle informatie te lezen en de opdrachten uit te werken. Je kunt hier veel aan hebben tijdens de gehele opleiding.
